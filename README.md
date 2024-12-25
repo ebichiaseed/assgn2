@@ -1,4 +1,4 @@
-# dsa1101-assgn2
+# assgn2
 ## note: please don't plagiarise my code ;-; it's for portfolio purposes thanks!
 ## About this repository
 
